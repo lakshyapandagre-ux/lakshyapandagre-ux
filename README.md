@@ -1,35 +1,93 @@
-## Hi there 👋
-
+<!-- PROFILE HEADER -->
+<img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 <h1 align="center">Hi 👋, I'm Lakshya Pandagre</h1>
-<h3 align="center">👋 Hi, i am 🎓 CSIT Student @ CDGI | 📚 Learning AIML 🚀 Building projects & exploring hackathons</h3>
+<h3 align="center">CSIT Student | AIML Learner | Hackathon Enthusiast 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshyapandagre-ux&label=Profile%20views&color=0e75b6&style=flat" alt="lakshyapandagre-ux" /> </p>
-
-- 🌱 I’m currently learning **Python , fast api , Basics of ai/ml**
-
-- 👯 I’m looking to collaborate on **hackathon projects (AI/ML &Web dev)**
-
-- 🤝 I’m looking for help with **Machine Learning projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/lakshyapandagre-ux](https://github.com/lakshyapandagre-ux)
-
-- 📝 I regularly write articles on [linkedin](linkedin)
-
-- 💬 Ask me about **python , web dev projects**
-
-- 📫 How to reach me **lakshyapandagre@gmail.com**
-
-- ⚡ Fun fact **I learn coding with full energy but still low memes!!!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/lakshya-pandagre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshya-pandagre" height="30" width="40" /></a>
-<a href="https://instagram.com/ft_.lakshya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ft_.lakshya" height="30" width="40" /></a>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=lakshyapandagre-ux&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshyapandagre-ux&show_icons=true&locale=en&layout=compact" alt="lakshyapandagre-ux" /></p>
+# 🙋‍♂️ About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshyapandagre-ux&" alt="lakshyapandagre-ux" /></p>
+🎓 CSIT Student at CDGI  
+🤖 Currently learning **Python and Basics of AI/ML**  
+🚀 Building projects and exploring **Hackathons**  
+🤝 Looking to collaborate on **AI/ML & Web Development projects**  
+💡 Interested in **Artificial Intelligence, Machine Learning and Startups**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://instagram.com">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+</p>
+
+---
+
+# 🛠 Languages & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,git,github,vscode,linux" />
+</p>
+
+---
+
+# 🚀 Current Focus
+
+- Learning **Artificial Intelligence & Machine Learning**
+- Building **Real World Projects**
+- Participating in **Hackathons**
+- Improving **Problem Solving Skills**
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=lakshyapandagre-ux&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyapandagre-ux&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=lakshyapandagre-ux&theme=tokyonight" />
+</p>
+
+---
+
+# 🧠 Quote for Developers
+
+> “Programs must be written for people to read, and only incidentally for machines to execute.”  
+> – Harold Abelson
+
+---
+
+# ⚡ Fun Fact
+
+💡 I love turning **ideas into real projects** and exploring new technologies.
+
+---
+
+# ⭐ Featured Projects
+
+🚀 Flipkart Clone  
+🤖 AI Chatbot  
+🧠 AIML Practice Projects  
+
+---
+
+⭐ From **Lakshya Pandagre**
