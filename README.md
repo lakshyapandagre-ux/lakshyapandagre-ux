@@ -1,94 +1,63 @@
-<!-- HEADER BANNER -->
-https://github-profile-summary-cards.vercel.app/demo.html
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Lakshya%20Pandagre&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-</p>
+https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%"/>
 
-<!-- TYPING INTRO -->
+# Hi I'm Lakshya Pandagre 👋
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=CSIT+Student;AIML+Learner;Hackathon+Enthusiast;Future+AI+Engineer" />
-</p>
+### CSIT Student | AIML Learner | Hackathon Explorer 🚀
 
 ---
 
-## 🧑‍💻 About Me
+# ⚡ Tech Stack
 
-🎓 CSIT Student at **CDGI**  
-🤖 Learning **Python & Artificial Intelligence / Machine Learning**  
-🚀 Building projects & exploring **Hackathons**  
-🧠 Interested in **AI, ML, Startups and Innovation**
-
----
-
-## 🌐 Connect With Me
-
-<p>
-<a href="https://linkedin.com">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://instagram.com">
-<img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-# 🛠 Languages & Tools
+# 🌍 Online Coordinates
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,git,github,vscode,linux"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
+
+---
+
+# 🧠 Life Config
+
+⚙ Currently learning: **Python + AI/ML**
+
+💻 Building: **Real World Projects**
+
+🚀 Mission: **Become an AI Engineer**
+
+🎯 Goal: **Win Hackathons & Build Startups**
 
 ---
 
 # 📊 GitHub Stats
 
-<p align="center">
+![](https://github-readme-stats.vercel.app/api?username=lakshyapandagre-ux&show_icons=true&theme=tokyonight)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lakshyapandagre-ux&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyapandagre-ux&layout=compact&theme=tokyonight"/>
-
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyapandagre-ux&layout=compact&theme=tokyonight)
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=lakshyapandagre-ux&theme=tokyonight"/>
-</p>
-
----
-
-# 🧠 Random Dev Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
+![](https://streak-stats.demolab.com/?user=lakshyapandagre-ux&theme=tokyonight)
 
 ---
 
 # 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-</p>
+![snake gif](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
-
-# 🚀 Featured Projects
-
-⭐ Flipkart Clone  
-🤖 AI Chatbot  
-🧠 AIML Practice Projects  
-
----
-
-<p align="center">
 
 ⭐ From **Lakshya Pandagre**
-
-</p>
