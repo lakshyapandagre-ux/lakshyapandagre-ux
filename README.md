@@ -1,13 +1,11 @@
-
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%"/>
 
-# Hi I'm Lakshya Pandagre 👋
-
-### CSIT Student | AIML Learner | Hackathon Explorer 🚀
+<h1 align="center">Hi 👋, I'm Lakshya Pandagre</h1>
+<h3 align="center">CSIT Student | AIML Learner | Hackathon Explorer 🚀</h3>
 
 ---
 
-# ⚡ Tech Stack
+## ⚡ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -20,7 +18,7 @@
 
 ---
 
-# 🌍 Online Coordinates
+## 🌍 Online Coordinates
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 
@@ -28,7 +26,7 @@
 
 ---
 
-# 🧠 Life Config
+## 🧠 Life Config
 
 ⚙ Currently learning: **Python + AI/ML**
 
@@ -40,24 +38,40 @@
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=lakshyapandagre-ux&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyapandagre-ux&layout=compact&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lakshyapandagre-ux&show_icons=true&theme=tokyonight"/>
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyapandagre-ux&layout=compact&theme=tokyonight"/>
 
-# 🔥 GitHub Streak
-
-![](https://streak-stats.demolab.com/?user=lakshyapandagre-ux&theme=tokyonight)
+</p>
 
 ---
 
-# 🐍 Contribution Snake
+## 🔥 GitHub Streak
 
-![snake gif](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=lakshyapandagre-ux&theme=tokyonight"/>
+
+</p>
 
 ---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://github.com/lakshyapandagre-ux/lakshyapandagre-ux/blob/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+<p align="center">
 
 ⭐ From **Lakshya Pandagre**
+
+</p>
