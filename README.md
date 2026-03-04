@@ -1,4 +1,4 @@
-(https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%"/>
 
 # Hi I'm Lakshya Pandagre 👋
