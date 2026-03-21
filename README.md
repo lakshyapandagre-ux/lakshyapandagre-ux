@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=CSIT+Student;AIML+Learner;Hackathon+Explorer;Future+AI+Engineer" />
 </p>
 
-<h3 align="center">CSIT Student | AIML Learner | Hackathon Explorer 🚀</h3>
+<h3 align="center">CSIT Student | AIML Learner | Hackathon Explorer 🚀</h4>
 
 ---
 
