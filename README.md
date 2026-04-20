@@ -1,9 +1,10 @@
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%"/>
+<!-- <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%"/> -->
+<img width="1444" height="578" alt="Image" src="https://github.com/user-attachments/assets/bb18bb87-c328-4f99-a840-e2d3aaa703bc" /> 
 
 <h1 align="center">Hi 👋, I'm Lakshya Pandagre</h1>
 
 <p align="center">
-<img width="1444" height="578" alt="Image" src="https://github.com/user-attachments/assets/bb18bb87-c328-4f99-a840-e2d3aaa703bc" /> 
+
 </p>
 
 <h3 align="center">CSIT Student | AIML Learner | Hackathon Explorer 🚀</h4>
