@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Lakshya Pandagre</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=CSIT+Student;AIML+Learner;Hackathon+Explorer;Future+AI+Engineer" />
+<img width="1444" height="578" alt="Image" src="https://github.com/user-attachments/assets/bb18bb87-c328-4f99-a840-e2d3aaa703bc" /> 
 </p>
 
 <h3 align="center">CSIT Student | AIML Learner | Hackathon Explorer 🚀</h4>
