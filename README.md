@@ -7,7 +7,7 @@
 
 </p>
 
-<h3 align="center">CSIT Student | AIML Learner | Hackathon Explorer 🚀</h4>
+<h3 align="center">CSIT Student | AIML Learner | Hackathon Explorerr 🚀</h4>
 
 ---
 
