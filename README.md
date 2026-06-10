@@ -1,12 +1,13 @@
 <div align="center">
 
 <img width="100%" src="https://raw.githubusercontent.com/lakshyapandagre-ux/lakshyapandagre-ux/main/b288c12b-b454-4729-b052-ec21255141fa.png" alt="Lakshya Pandagre Banner"/>
+
 <h1>Lakshya Pandagre</h1>
 
 <p>
-  <img src="https://img.shields.io/badge/AI%2FML%20Learner-7C3AED?style=flat-square&labelColor=0D0D0D" />
-  <img src="https://img.shields.io/badge/CS%20Student-0066FF?style=flat-square&labelColor=0D0D0D" />
-  <img src="https://img.shields.io/badge/Hackathon%20Explorer-FF6B6B?style=flat-square&labelColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/AI%2FML%20Learner-00C853?style=flat-square&labelColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/CS%20Student-00E676?style=flat-square&labelColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/Hackathon%20Explorer-69F0AE?style=flat-square&labelColor=0D0D0D" />
 </p>
 
 <p>
@@ -16,7 +17,7 @@
   <a href="https://instagram.com/lakshya.pandagre"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=lakshyapandagre-ux&label=Profile+Views&color=7C3AED&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=lakshyapandagre-ux&label=Profile+Views&color=00C853&style=flat-square" />
 
 </div>
 
@@ -27,7 +28,7 @@
 - 🤖 Currently leveling up in **Machine Learning & Data Science**
 - 📊 Learning → **Python · Statistics · ML Algorithms · Data Viz**
 - 🎯 Mission: **Become an AI Engineer & win Hackathons**
-- 🌐 My projects → [[portfolio link](#)](https://itslakshya.vercel.app/)
+- 🌐 My projects → [itslakshya.vercel.app](https://itslakshya.vercel.app)
 - 💌 Open to internships & collaborations → reach out anytime
 
 ---
@@ -92,6 +93,7 @@
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
         <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square" />
       </p>
+      <a href="https://res-q-team-mind-forge.vercel.app/login"><img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge" /></a>
     </td>
     <td width="50%">
       <h3>💼 Portfolio</h3>
@@ -102,26 +104,29 @@
         <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square" />
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
       </p>
+      <a href="https://itslakshya.vercel.app"><img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>🏥 SakhiCare</h3>
-      <p>Full-stack healthcare platform. React + Node.js + Supabase with real-time data and role-based access. Team project.</p>
+      <h3>🎓 EduConnect</h3>
+      <p>An educational platform connecting students and instructors for seamless collaboration, learning resources, and continuous growth.</p>
       <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
       </p>
+      <a href="https://educonnectcodepanda.vercel.app"><img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge" /></a>
     </td>
     <td width="50%">
-      <h3>💡 StackPrep.ai <em>(Concept)</em></h3>
-      <p>Company-specific interview prep tool that analyzes GitHub repos, job descriptions & engineering blogs to generate personalized skill gap reports.</p>
+      <h3>🎵 AudioSnap</h3>
+      <p>A sleek audio tool for capturing, managing and sharing audio snippets with a clean minimal UI experience.</p>
       <p>
-        <img src="https://img.shields.io/badge/AI--Powered-7C3AED?style=flat-square" />
-        <img src="https://img.shields.io/badge/SaaS-0066FF?style=flat-square" />
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
       </p>
+      <a href="https://audio-snap-muoe.vercel.app"><img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge" /></a>
     </td>
   </tr>
 </table>
@@ -141,32 +146,32 @@ fun_fact:            "I build in public on X → @Lakshya_ai 🚀"
 
 ---
 
-## 📊 GitHub Stats
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" /> **GitHub Stats**
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lakshyapandagre-ux&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyapandagre-ux&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=7C3AED&text_color=ffffff"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lakshyapandagre-ux&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=00C853&icon_color=00C853&text_color=ffffff"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyapandagre-ux&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=00C853&text_color=ffffff"/>
 </p>
 
 ---
 
-## 🔥 Streak
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" /> **Streak**
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=lakshyapandagre-ux&theme=tokyonight&hide_border=true&background=0D0D0D&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED"/>
+  <img src="https://streak-stats.demolab.com/?user=lakshyapandagre-ux&theme=tokyonight&hide_border=true&background=0D0D0D&ring=00C853&fire=69F0AE&currStreakLabel=00C853"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+<img src="https://media.giphy.com/media/cIn5fTcjnqqu5g2tqB/giphy.gif" width="30px" /> **Contribution Graph**
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshyapandagre-ux&theme=tokyo-night&hide_border=true&bg_color=0D0D0D&color=7C3AED&line=7C3AED&point=FF6B6B"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshyapandagre-ux&theme=tokyo-night&hide_border=true&bg_color=0D0D0D&color=00C853&line=00C853&point=69F0AE"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px" /> **Contribution Snake**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/lakshyapandagre-ux/lakshyapandagre-ux/output/github-contribution-grid-snake-dark.svg"/>
@@ -176,8 +181,9 @@ fun_fact:            "I build in public on X → @Lakshya_ai 🚀"
 
 <div align="center">
   <p>
-    <img src="https://img.shields.io/badge/CSIT%20Student%20%40%20CDGI%20Indore-0D0D0D?style=for-the-badge&labelColor=7C3AED" />
+    <img src="https://img.shields.io/badge/CSIT%20Student%20%40%20CDGI%20Indore-0D0D0D?style=for-the-badge&labelColor=00C853" />
+    <img src="https://img.shields.io/badge/🟢%20Available%20for%20Work-0D0D0D?style=for-the-badge&labelColor=00C853" />
   </p>
   <p><em>⭐ If you like my work, drop a star!</em></p>
-  <p>Made with 💜 by <strong>Lakshya Pandagre</strong></p>
+  <p>Made with 💚 by <strong>Lakshya Pandagre</strong> &nbsp;|&nbsp; 🌐 <a href="https://itslakshya.vercel.app">itslakshya.vercel.app</a></p>
 </div>
