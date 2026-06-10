@@ -4,9 +4,9 @@
 
 <h1>Lakshya Pandagre</h1>
 <p>
-  <img src="https://img.shields.io/badge/AI%2FML%20Learner-7C3AED?style=flat-square&labelColor=0D0D0D" />
-  <img src="https://img.shields.io/badge/CS%20Student-0066FF?style=flat-square&labelColor=0D0D0D" />
-  <img src="https://img.shields.io/badge/Hackathon%20Explorer-FF6B6B?style=flat-square&labelColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/AI%2FML%20Learner-0D0D0D?style=for-the-badge&labelColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/CS%20Student-0D0D0D?style=for-the-badge&labelColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/Hackathon%20Explorer-0D0D0D?style=for-the-badge&labelColor=0D0D0D" />
 </p>
 
 <p>
