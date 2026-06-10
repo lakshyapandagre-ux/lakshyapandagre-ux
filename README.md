@@ -26,7 +26,6 @@
 **Building at the intersection of AI and real-world problems.** 🚀
 
 - 🤖 Currently leveling up in **Machine Learning & Data Science**
-- 🔨 Building → **[ResQ](https://github.com/lakshyapandagre-ux/resq)** — civic safety PWA with Gemini AI
 - 📊 Learning → **Python · Statistics · ML Algorithms · Data Viz**
 - 🎯 Mission: **Become an AI Engineer & win Hackathons**
 - 🌐 My projects → [portfolio link](#)
