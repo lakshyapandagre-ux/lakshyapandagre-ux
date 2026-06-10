@@ -1,7 +1,6 @@
 <div align="center">
 
-<img width="100%" src=["https://github.com/user-attachments/assets/bb18bb87-c328-4f99-a840-e2d3aaa703bc" alt="Lakshya Pandagre Banner"](https://github.com/lakshyapandagre-ux/lakshyapandagre-ux/blob/main/b288c12b-b454-4729-b052-ec21255141fa.png)/>
-
+<img width="100%" src="https://raw.githubusercontent.com/lakshyapandagre-ux/lakshyapandagre-ux/main/b288c12b-b454-4729-b052-ec21255141fa.png" alt="Lakshya Pandagre Banner"/>
 <h1>Lakshya Pandagre</h1>
 
 <p>
