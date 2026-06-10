@@ -21,7 +21,7 @@ I love creating products that combine performance, usability, and intelligence t
   <a href="mailto:lakshya@email.com"><img src="https://img.shields.io/badge/✉%20Email-0D0D0D?style=for-the-badge&logoColor=white" /></a>
   <a href="https://linkedin.com/in/lakshya-pandagre"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/Lakshya_ai"><img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://instagram.com/lakshya.pandagre"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://itslakshya.vercel.app"><img  /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=lakshyapandagre-ux&label=Profile+Views&color=00C853&style=flat-square" />
