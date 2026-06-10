@@ -85,7 +85,7 @@ I love creating products that combine performance, usability, and intelligence t
 
 ---
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="28px" /> **Featured Projects**
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="28px" /> <h2><em>**Featured Projects**</h2><em>
 
 <table>
   <tr>
