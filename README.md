@@ -32,16 +32,16 @@
 
 ---
 
-## 💻 Things I Code With
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28px" /> **Things I Code With**
 
-### Languages
+### <img src="https://media.giphy.com/media/fsEaZR9Z9E6YZNM8Yw/giphy.gif" width="22px" /> Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 🌐 Web & Frontend
+### <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="22px" /> Web & Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -49,13 +49,13 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🗄️ Databases & Backend
+### <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="22px" /> Databases & Backend
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 📊 Data Science & ML
+### <img src="https://media.giphy.com/media/KAq5w47R9rmTuxXUOs/giphy.gif" width="22px" /> Data Science & ML
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
@@ -63,14 +63,14 @@
 ![Bokeh](https://img.shields.io/badge/Bokeh-FF6F61?style=for-the-badge)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### 🤖 AI & Productivity
+### <img src="https://media.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif" width="22px" /> AI & Productivity
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 
-### 🛠️ Tools & Workflow
+### <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="22px" /> Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -78,7 +78,8 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-## 🚀 Featured Projects
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="28px" /> **Featured Projects**
 
 <table>
   <tr>
@@ -131,7 +132,7 @@
 
 ---
 
-## ⚙️ Life Config
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28px" /> **Life Config**
 
 ```yaml
 currently_learning:  "Machine Learning · Statistics · Data Science"
@@ -144,7 +145,7 @@ fun_fact:            "I build in public on X → @Lakshya_ai 🚀"
 
 ---
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" /> **GitHub Stats**
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px" /> **GitHub Stats**
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=lakshyapandagre-ux&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=00C853&icon_color=00C853&text_color=ffffff"/>
@@ -153,7 +154,7 @@ fun_fact:            "I build in public on X → @Lakshya_ai 🚀"
 
 ---
 
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" /> **Streak**
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28px" /> **Streak**
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=lakshyapandagre-ux&theme=tokyonight&hide_border=true&background=0D0D0D&ring=00C853&fire=69F0AE&currStreakLabel=00C853"/>
@@ -161,7 +162,7 @@ fun_fact:            "I build in public on X → @Lakshya_ai 🚀"
 
 ---
 
-<img src="https://media.giphy.com/media/cIn5fTcjnqqu5g2tqB/giphy.gif" width="30px" /> **Contribution Graph**
+<img src="https://media.giphy.com/media/cIn5fTcjnqqu5g2tqB/giphy.gif" width="28px" /> **Contribution Graph**
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshyapandagre-ux&theme=tokyo-night&hide_border=true&bg_color=0D0D0D&color=00C853&line=00C853&point=69F0AE"/>
@@ -169,7 +170,7 @@ fun_fact:            "I build in public on X → @Lakshya_ai 🚀"
 
 ---
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px" /> **Contribution Snake**
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28px" /> **Contribution Snake**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/lakshyapandagre-ux/lakshyapandagre-ux/output/github-contribution-grid-snake-dark.svg"/>
