@@ -1,4 +1,4 @@
-<div align="left">
+<div align="centre">
 
 <img width="100%" src="https://raw.githubusercontent.com/lakshyapandagre-ux/lakshyapandagre-ux/main/b288c12b-b454-4729-b052-ec21255141fa.png" alt="Lakshya Pandagre Banner"/>
 
