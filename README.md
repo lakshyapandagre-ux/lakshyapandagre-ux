@@ -78,7 +78,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
 ## 🚀 Featured Projects
 
 <table>
@@ -92,7 +91,7 @@
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
         <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square" />
       </p>
-      <a href="https://res-q-team-mind-forge.vercel.app/login"><img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge" /></a>
+      <a href="https://res-q-team-mind-forge.vercel.app/login"><img src="https://img.shields.io/badge/Live%20Demo-0D0D0D?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     </td>
     <td width="50%">
       <h3>💼 Portfolio</h3>
@@ -103,7 +102,7 @@
         <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square" />
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
       </p>
-      <a href="https://itslakshya.vercel.app"><img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge" /></a>
+      <a href="https://itslakshya.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-0D0D0D?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     </td>
   </tr>
   <tr>
@@ -115,7 +114,7 @@
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
         <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
       </p>
-      <a href="https://educonnectcodepanda.vercel.app"><img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge" /></a>
+      <a href="https://educonnectcodepanda.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-0D0D0D?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     </td>
     <td width="50%">
       <h3>🎵 AudioSnap</h3>
@@ -125,7 +124,7 @@
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
       </p>
-      <a href="https://audio-snap-muoe.vercel.app"><img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge" /></a>
+      <a href="https://audio-snap-muoe.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-0D0D0D?style=for-the-badge&logo=vercel&logoColor=white" /></a>
     </td>
   </tr>
 </table>
