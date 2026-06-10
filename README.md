@@ -27,7 +27,7 @@
 - 🤖 Currently leveling up in **Machine Learning & Data Science**
 - 📊 Learning → **Python · Statistics · ML Algorithms · Data Viz**
 - 🎯 Mission: **Become an AI Engineer & win Hackathons**
-- 🌐 My projects → [portfolio link](#)
+- 🌐 My projects → [[portfolio link](#)](https://itslakshya.vercel.app/)
 - 💌 Open to internships & collaborations → reach out anytime
 
 ---
