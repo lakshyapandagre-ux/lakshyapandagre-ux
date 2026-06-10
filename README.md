@@ -3,6 +3,14 @@
 <img width="100%" src="https://raw.githubusercontent.com/lakshyapandagre-ux/lakshyapandagre-ux/main/b288c12b-b454-4729-b052-ec21255141fa.png" alt="Lakshya Pandagre Banner"/>
 
 <h1>Lakshya Pandagre</h1>
+
+<p><em><strong>I'm passionate about building technology at the intersection of Software, Data, and AI.<br>
+My interests span Web Development, Data Analytics, Data Engineering, and Artificial Intelligence,<br>
+where I enjoy turning ideas into scalable, real-world solutions.<br><br>
+I've worked with modern web applications, data pipelines, APIs, and AI-powered systems,<br>
+while exploring Machine Learning, Generative AI, RAG, AI Agents, and automation workflows.<br><br>
+I love creating products that combine performance, usability, and intelligence to solve meaningful problems.</strong></em></p>
+
 <p>
   <img src="https://img.shields.io/badge/AI%2FML%20Learner-0D0D0D?style=for-the-badge&labelColor=0D0D0D" />
   <img src="https://img.shields.io/badge/CS%20Student-0D0D0D?style=for-the-badge&labelColor=0D0D0D" />
