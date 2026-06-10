@@ -9,7 +9,7 @@ My interests span Web Development, Data Analytics, Data Engineering, and Artific
 where I enjoy turning ideas into scalable, real-world solutions.<br><br>
 I've worked with modern web applications, data pipelines, APIs, and AI-powered systems,<br>
 while exploring Machine Learning, Generative AI, RAG, AI Agents, and automation workflows.<br><br>
-I love creating products that combine performance, usability, and intelligence to solve meaningful problems.</strong></em></p> 
+I love creating products that combine performance, usability, and intelligence to solve meaningful problems.</strong></em></p> <br> <br>
 
 <p>
   <img src="https://img.shields.io/badge/AI%2FML%20Learner-0D0D0D?style=for-the-badge&labelColor=0D0D0D" />
