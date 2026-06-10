@@ -8,7 +8,7 @@
 My interests span Web Development, Data Analytics, Data Engineering, and Artificial Intelligence,
 where I enjoy turning ideas into scalable, real-world solutions.
 I've worked with modern web applications, data pipelines, APIs, and AI-powered systems,
-while exploring Machine Learning, Generative AI, RAG, AI Agents, and automation workflows.
+while exploring Machine Learning, Generative AI, RAG, AI Agents, and automation workflows.<br><br>
 I love creating products that combine performance, usability, and intelligence to solve meaningful problems.</strong></em></p> <br> <br>
 
 <p>
