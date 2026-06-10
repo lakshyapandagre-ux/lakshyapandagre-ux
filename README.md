@@ -28,7 +28,7 @@ I love creating products that combine performance, usability, and intelligence t
 </div>
 ---
 
-**Building at the intersection of AI and real-world problems.🚀**
+<em>**Building at the intersection of AI and real-world problems.🚀**</em>
 
 - 🤖 Currently leveling up in **Machine Learning & Data Science**
 - 📊 Learning → **Python · Statistics · ML Algorithms · Data Viz**
