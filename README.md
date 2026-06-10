@@ -4,7 +4,7 @@
 
 <h1>Lakshya Pandagre</h1>
 
-<p><em><strong>I'm passionate about building technology at the intersection of Software, Data, and AI.<br>
+<p><em><strong>Hiii i'am laskhya 20 year old , developer , builder , AIML explorer . I'm passionate about building technology at the intersection of Software, Data, and AI.<br>
 My interests span Web Development, Data Analytics, Data Engineering, and Artificial Intelligence,<br>
 where I enjoy turning ideas into scalable, real-world solutions.<br><br>
 I've worked with modern web applications, data pipelines, APIs, and AI-powered systems,<br>
